@@ -1,3 +1,4 @@
+*.cdn.steampipe.steamcontent.com
 +.client-update.queniuqe.com
 +.csgo.com.cn
 +.csgo.wmsj.cn
@@ -17,6 +18,8 @@
 +.steamusercontent.com
 +.wmsjsteam.com
 alibaba.cdn.steampipe.steamcontent.com
+fastly.cdn.steampipe.steamcontent.com
+google2.cdn.steampipe.steamcontent.com
 lv.queniujq.cn
 steampipe-kr.akamaized.net
 steampipe-partner.akamaized.net
